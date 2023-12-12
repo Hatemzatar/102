@@ -3,7 +3,7 @@ Tend to have a desire to learn from life. People with a growth mindset are belie
 
 
 ## Example for fixed and a growth mindset:
-![Image of fixed and a growth mindset]([https://www.rover.com/blog/wp-content/uploads/white-cat-min-960x540.jpg](https://www.joyfulthroughitall.com/wp-content/uploads/2021/12/fixed-vs-growth-mindset-examples-1.png)https://www.joyfulthroughitall.com/wp-content/uploads/2021/12/fixed-vs-growth-mindset-examples-1.png)
+![Image of fixed and a growth mindset](https://www.joyfulthroughitall.com/wp-content/uploads/2021/12/fixed-vs-growth-mindset-examples-1.png)
 
 ## Always remember to keep in your mind these:
 - No pain, no gain.
