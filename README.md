@@ -1,7 +1,16 @@
-# My Cat
-My cat name is Leo and it has a white skin.
-## How old is my cat?
-My cat is 20 years old which means in equivalent human age is 3 years
-## Picture of my cat
-![Image of my cat](https://www.rover.com/blog/wp-content/uploads/white-cat-min-960x540.jpg)
-always use this [website](https://www.cathealth.com/) to know how to care for my cat routine!
+# What is growth mindset?
+Tend to have a desire to learn from life. People with a growth mindset are believers in free will and this belief allows them to achieve goals time and time again.
+
+
+## Example for fixed and a growth mindset:
+![Image of fixed and a growth mindset]([https://www.rover.com/blog/wp-content/uploads/white-cat-min-960x540.jpg](https://www.joyfulthroughitall.com/wp-content/uploads/2021/12/fixed-vs-growth-mindset-examples-1.png)https://www.joyfulthroughitall.com/wp-content/uploads/2021/12/fixed-vs-growth-mindset-examples-1.png)
+
+## Always remember to keep in your mind these:
+- No pain, no gain.
+- Everytime you fail you gain experince, so don’t stop.
+- Fight for your dream always.
+
+## Who am i?
+I’m Hatem Zatar, I’am 23 years old, i was graduated as Energy engineer a three months ago. I want to change my career path, i want something more creative, I think i will find my self in coding.
+
+To know more about me click [here](https://github.com/hatemzatar)
